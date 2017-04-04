@@ -4,3 +4,4 @@ Welcome to my data science portfolio. I will be publishing my analysis from vari
 
 ## List of projects
 1) [Prediction of Bike Sharing Usage](bike_sharing/)
+2) [Prediction of Titanic Survival](titanic/)
